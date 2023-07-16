@@ -1,4 +1,4 @@
-<h1 ><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me">💫</g-emoji> About Me:</h1>
+<h1 ><a id="user-content--about-me" href="#-about-me">💫</g-emoji> About Me:</h1>
 - 🔭 I’m currently working on **React, AIML**
 
 - 🌱 I’m currently learning **REACT,AIML**
