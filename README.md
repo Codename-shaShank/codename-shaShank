@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on REACT, AI ML<br>🌱 I’m currently learning AI ML, Fire Base<br>
+🔭 I’m currently working on REACT, AI ML<br>🌱 I’m currently learning OPEN CV, FLASK<br>
 
 
 ## 🌐 Socials:
